@@ -64,3 +64,6 @@ Step 3:
  - Now we will do the same process with the CentOS ec2 instance instead of windows
  - Run same programs in java and C languages and record the metrics and compare the metrics and by      visualizing in grafana.
 
+INFLUXDB : InfluxDB is an open-source time series database (TSDB) developed by InfluxData. It is written in Go and optimized for fast, high-availability storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics.
+Grafana : Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
+Telegraf : 
