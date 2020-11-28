@@ -46,7 +46,7 @@ Installing InfluxDB on the CentOS server
     show database
     create database <database_name>
     exit
- Step 2:
+Step 2:
  - we use this documentation for installing grafana on to the gcp instance                                 -  https://grafana.com/docs/grafana/latest/installation/rpm/
 - go to the grafana portal using the external ip of the server and port 3000(default grafana port)
 - create a datasource influxdb using the user authentication details we set previously during step 1
